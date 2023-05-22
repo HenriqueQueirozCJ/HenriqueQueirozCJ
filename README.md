@@ -1,5 +1,7 @@
 # Olá Viajante! Seja bem-vindo(a) ao meu perfil :D 
-  Amo jogar e escrever códigos que ajudem o mundo a melhorar
+
+  Amo jogar e escrever códigos que ajudem o mundo a melhorar 
+  
   Cursando Análise e Desenvolvimento de Sistemas :man_technologist:
  
 <div> 
