@@ -1,4 +1,4 @@
-# Olá Viajante! Seja bem-vindo(a) ao meu perfil <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="😉"></h1>
+# Olá Viajante! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="😉"></h1> Seja bem-vindo(a) ao meu perfil 
 <div> <img align="right" alt="Floppa Caracal GIF" src= "https://i.pinimg.com/564x/0c/93/50/0c9350bb74ac8862883fd9f08a9a82c9.jpg" = width="200" height="200" /> </div>
   Amo jogar e escrever códigos que ajudem o mundo a melhorar 
   
