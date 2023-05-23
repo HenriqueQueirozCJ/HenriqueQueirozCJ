@@ -6,9 +6,9 @@
    Amo escrever códigos que ajudem o mundo a melhorar e jogar nas horas vagas. <br> 
    Atualmente estou cursando Análise e Desenvolvimento de Sistemas :man_technologist:. <br>
   </i> <br>
-  <a  href="https://www.instagram.com/juniorbenz777/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:henriquequeiroz.ads@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henriquequeirozads/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a  href="https://www.instagram.com/juniorbenz777/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?logo=instagram&logoColor=white&style=for-the-badge&logoWheight=50"></a>
+  <a href = "mailto:henriquequeiroz.ads@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-black?logo=microsoftoutlook&logoColor=white&style=for-the-badge&logoWheight=200"></a>
+  <a href="https://www.linkedin.com/in/henriquequeirozads/" target="_blank"><img src="https://img.shields.io/badge/-Linkedln-black?logo=linkedin&logoColor=white&style=for-the-badge&logoWheight=50"" target="_blank"></a> 
  </p>
 
 
