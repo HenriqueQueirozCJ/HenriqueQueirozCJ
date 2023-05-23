@@ -3,7 +3,7 @@
  <p align="center">
   <i>
    Seja muito bem-vindo(a)  ao meu perfil. <br>
-   Amo escrever códigos que ajudem o mundo a melhorar e jogar nas horas vagas. <br> 
+   Adoro escrever códigos que ajudem o mundo a melhorar e costumo jogar nas horas vagas. <br> 
    Atualmente estou cursando Análise e Desenvolvimento de Sistemas :man_technologist:. <br>
   </i> <br>
   <a  href="https://www.instagram.com/juniorbenz777/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?logo=instagram&logoColor=white&style=for-the-badge&logoWheight=50"></a>
