@@ -7,7 +7,8 @@
   <i>
    Seja muito bem-vindo(a) ao meu perfil. <br>
    Adoro escrever códigos que ajudem a melhorar o mundo e costumo jogar nas horas vagas. <br> 
-   Atualmente estou cursando Análise e Desenvolvimento de Sistemas :man_technologist:. <br>
+   Atualmente estou cursando Análise e Desenvolvimento de Sistemas
+   Curioso aprendendo as linguagens C e Pyhon  :man_technologist:. <br>
   </i> <br>
   <a href="https://www.instagram.com/juniorbenz777/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?logo=instagram&logoColor=white&style=for-the-badge&logoWheight=100"></a>
   <a href = "mailto:henriquequeiroz.ads@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-black?logo=microsoftoutlook&logoColor=white&style=for-the-badge&logoWheight=200"></a>
