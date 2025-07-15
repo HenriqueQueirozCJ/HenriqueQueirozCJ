@@ -8,7 +8,7 @@
    Seja muito bem-vindo(a) ao meu perfil. <br>
    Adoro escrever códigos que ajudem a melhorar o mundo e costumo jogar nas horas vagas. <br> 
    Atualmente estou cursando Análise e Desenvolvimento de Sistemas <br>
-   Curioso aprendendo as linguagens Java e aprimorando Python  :man_technologist:. <br>
+    :man_technologist:. <br>
   </p> 
   
   <p align="center">
